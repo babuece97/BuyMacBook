@@ -1,0 +1,40 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+
+.flex-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.main-image{
+  width:100%;
+
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.statusBar {
+
+  margin: 4% 2%;
+  padding: 3%;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+
+.statusMain {
+  display: flex;
+  justify-content: space-between;
+}
+
+
